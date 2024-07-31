@@ -1,0 +1,29 @@
+// INSTALAR IONIC
+npm i - g @ionic/cli
+
+
+
+// CRIAR PROJETO
+ionic start primeiroprojeto tabs
+ionic start projeto_blank blank 
+
+
+
+// INSTALAR DEPENDENCIA 
+npm install
+
+
+
+// INICIAR
+ng serve --open
+
+
+
+// CRIAR PAGE
+ionic g page pages/inico 
+
+
+// COMPONENTES 
+ionic g module componentes
+
+ionic g component componentes/header
